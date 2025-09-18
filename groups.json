@@ -1,1 +1,26 @@
-[]
+[
+{
+    "model": "auth.group",
+    "pk": 1,
+    "fields": {
+        "name": "administrator",
+        "permissions": []
+    }
+},
+{
+    "model": "auth.group",
+    "pk": 2,
+    "fields": {
+        "name": "gurubk",
+        "permissions": []
+    }
+},
+{
+    "model": "auth.group",
+    "pk": 3,
+    "fields": {
+        "name": "walikelas",
+        "permissions": []
+    }
+}
+]
