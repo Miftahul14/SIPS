@@ -1,0 +1,2273 @@
+[
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "walikelas",
+        "model": "poin_prestasi"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "gurubk",
+        "model": "poin_pelanggaran"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "administrator",
+        "model": "daftar_kelas"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "administrator",
+        "model": "daftar_pelanggaran"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "administrator",
+        "model": "daftar_prestasi"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "administrator",
+        "model": "daftar_wali"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "administrator",
+        "model": "daftar_siswa"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "administrator",
+        "model": "daftar_sanksi"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "04i7y66k8kqb84ef3ahm8qtq3ppw4pbl",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1sfxOX:g5faVddUkcY5hdoup8arzKfxh-mZfSW9PiPUUGbOBEI",
+        "expire_date": "2024-08-19T09:05:41.976Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "10y00dimkubi1033cpc3t96jirrmy5l9",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1scrUG:PnoqDbQeQi656inSyZli44Mz0IXyrAc3Sc_nPbGWfnE",
+        "expire_date": "2024-08-10T20:10:48.562Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "2vp5gst74yw2gj49t4r36licw1bl0gzb",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1sh7wQ:2CMSp3nq3zQiRNwgx4av_0TenCPQtsDOCIinkLzq844",
+        "expire_date": "2024-08-22T14:33:30.562Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "3f5ecz4mufjwxlfrfx197njb36o5unxf",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1shQ0M:LBKV0OvyMxBWc4Wszy1AZA7AlCXkeudKiY9IwZABi1E",
+        "expire_date": "2024-08-23T09:50:46.916Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "5dzyxue5d1jf78c2f36eesrpjfqa4c2e",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1shVNv:B1vSjRW_caxa04IIpfjYsN786GQ5W_4bFb0vycaZCcI",
+        "expire_date": "2024-08-23T15:35:27.808Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "66y8riznvcshx9f4bpf3tz6x5803cnoj",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1senT6:Tgj4HOXRXMj0xEq5EbeJsHwfUBASnnQx4_GLOeCe800",
+        "expire_date": "2024-08-16T04:17:36.910Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "73el8ol95wp3s4q1xupg0l3j9gghe2hf",
+    "fields": {
+        "session_data": ".eJxVjEsOwjAMBe-SNYpInY9hyZ4zRHZi0wJqpaZdIe4OlbqA7ZuZ9zKZ1qXPa5M5D9WcTRfN4XdkKg8ZN1LvNN4mW6ZxmQe2m2J32ux1qvK87O7fQU-t_9bexZOKK8Sd5-IgEUjxyEqKoSMPLAh4jEDKiYNC8UkdoFIIghzN-wMkZDjH:1sjJgI:9ORKaLcIEYcnWoh6ypUGXzU1_nfI3HTNpsXGPgHLPXI",
+        "expire_date": "2024-08-28T15:29:54.339Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "7re6ywy11anlc9sbg1zcyao01o6j70r5",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1tOSrx:cbFwBJ4cgTQknOBxhLRdf3c6abMXF3UIczk-U2yNKj4",
+        "expire_date": "2024-12-20T03:36:01.207Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "85kfk3fvneqmnqdo4k52urpabawdclgb",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1sh10r:kewNur4K2RX_jHY86JgFHg3NCAwm1GI09cxtadHiwLc",
+        "expire_date": "2024-08-22T07:09:37.164Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "8g8fncjn0uop1sln50ryvd4jdm2o20kv",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1sioTx:A8Xe0oeobqO_1Age_ZiZ4Xu45vXCW6eElAr98owzJa4",
+        "expire_date": "2024-08-27T06:11:05.505Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "8xpnbd1liqass6xhw03e9yp3r2zpg73t",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1shTxf:czg7YOkW0sOYnRh2yIfvWp3KUPJ3s07JtSjyEQ4Klfs",
+        "expire_date": "2024-08-23T14:04:15.690Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "a613qkx0rmmj8ubnj0e6rw4p4gga10ji",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1sh6EY:7A14VmbneWc3E-zdzhBty8FJOTmdtvJ_SxrJY4NKfJc",
+        "expire_date": "2024-08-22T12:44:06.112Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ab6g0jerzqrurx9rik9qca62p0yqd8gt",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1sbiA6:pZZmX2LkkTg2Wl_3_7IZpCQly7882R8HJ8q5yuDlMPE",
+        "expire_date": "2024-08-07T16:01:14.146Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "bcnqn4uiary5pfkvlkkwhxx07k7vcpct",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pDOEKC4dO8ZyDAMUjU0Ke3KeHdt0oVu_3vvv1Skba1x67LEKauzMkGdfsdE_JC2k3yndps1z21dpqR3RR-06-uc5Xk53L-DSr1-60QB0pCzOFcGxwGtcegJi3XEjpA8gMVkwZdgKBhmEaYCowQY0Sb1_gAWrDhk:1uyiig:vf9kg2O2iQhb642b4yH5ljdThNfbZ5rxOMJoH-dFnQ8",
+        "expire_date": "2025-09-17T04:20:34.765Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "dar1u600wbwi0ve6krggfg3x37ojxjmr",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1uz5Ei:SyvbeeMDWLpOYlWSgv_uLteIZOqK0PqBfktyTpTm3vU",
+        "expire_date": "2025-09-18T04:23:08.305Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "fxa2jstyyzj5pzhwjs5mkalt4n518628",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1uQ2Xu:ZWINDc58j5Y7oZVoskhlfFh6xoU8zWuqDZeT_7oWlpw",
+        "expire_date": "2025-06-13T12:26:06.809Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "jylx5ear7pdwxocyu5n6uq4umbksest6",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1sd5o4:NVtsSGyz1RXxxtK838bobU2KX8lHvj5cnK4y9N3WQzg",
+        "expire_date": "2024-08-11T11:28:12.573Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "k9fbpd68l9sdp2emn4u55vsksh48jzv8",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1stsKg:4suRVJVIH1a8xW5o75afWpjqm3aC_0e20z5rDA24KrA",
+        "expire_date": "2024-09-26T18:31:14.137Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "mkmwzqgji6p14cawx9u4xsocy14fzx0e",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1sbYRI:4gixGz6P1p-mPoPigflPBIpDdSN4R2tFCTaynks0p84",
+        "expire_date": "2024-08-07T05:38:20.493Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "n7frjuf3nxcc54bepiifo8hnq87obdlo",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1sfdhm:cR27A3i7nZK9xnl9Pfq5T2VhP2sbKTDCS7xGbO3Q0eQ",
+        "expire_date": "2024-08-18T12:04:14.143Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "qc40yjf414t8p2h8wcy53ltn87vcd696",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1shJgU:OkCKVcq7iCwGf8IdkU-7BgOylB1v8FLaU7a-JYBNeOY",
+        "expire_date": "2024-08-23T03:05:50.538Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "re3vb0rgyokp3s4nk5snlog0zeq6l2l9",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hAKZQCX7nsGwjBTqRqalHZlvLsh6UK3_7333yKmYy_xaLzFhcRVaC0uvyOm_OTaCT1Sva8yr3XfFpRdkSdtclqJX7fT_TsoqZVe84g5sA_oZgOavEJv2CkYHICDGYlssKBQucGw94SgR2spcXDGaxSfLwqpN8c:1shg2M:TNfVDl1eTFf-_-27oIJUPtGp0Ck4du0z30Etdr1Ikzo",
+        "expire_date": "2024-08-24T02:57:54.259Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "tpbx5xekb6cpeporgpwfrzvvn2kxsrrg",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1sgbTW:IjeXVDMyFIetNnAf8WbOw-nlvWg4obG2cVwaC7zUk00",
+        "expire_date": "2024-08-21T03:53:30.895Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ulddr6u59f62r06bmcls1z38wm8ctv0s",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1sdUyi:nWpvVifPWkBR8us-JrEdBgv4jI_OJuuQzDDMhsW6GMg",
+        "expire_date": "2024-08-12T14:20:52.209Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "xzlogaxc3yic4wqvxfguxt1ux69q259r",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1sjLab:nC8dqVegQ8QIZcBVcOy233Il8E3-Sc6tYQWYgHaMIDw",
+        "expire_date": "2024-08-28T17:32:09.470Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "z9ihb8f50itltwm8m1xvorq2xm4g0fu7",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1shBaT:9aP5nvY3_UlojGUoSdEOn6EYuznF_yWyxArEc4U2TII",
+        "expire_date": "2024-08-22T18:27:05.798Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "zlt2z8o15wrj7tke2depchfhxpga6m9j",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGln-Kd5Q0nMGa727xgHkSHFSIe4OkVJA-2bmvVTCba1p67KkidVZRXX63TLSQ9oO-I7tNmua27pMWe-KPmjX15nleTncv4OKvX5r54pYDJGQfIhMbLMLdkQwYAcfgT1KiSCeyggmgxkKeOHsQ7aCYtT7A_EROGE:1sgPCt:APw_IozY3jCN4-AB7Hc19rd_M5UESj-KviTW35LQA-A",
+        "expire_date": "2024-08-20T14:47:31.776Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ztdx4dg1o3vf85wb7lsig2sboy0h3qd4",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1sgaOu:zUgAWs5U5wm4wHPxI4tpVrB43ZUfltsq01S7Dv6rPic",
+        "expire_date": "2024-08-21T02:44:40.001Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "zyiup9i89gk4r5lz71j2vsxrmtvhgj4u",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP_C2RBwBVmP3n0DWZZFqoYmpT0Z_25IetDrzGTeKtK21rh1WeKU1UVZdfhlifgpbYj8oHafNc9tXaakR6J32_VtzvK67u3foFKvY1uCd2DkaMWhYbCFfXIhWwcc0CGhCBhLmUPBBB7YokefE5wKnYXV5wvRKDfj:1shRuE:9QRFIXKuccIC17sH_vKIfmLjKMeR8aexIF72wAZWFnA",
+        "expire_date": "2024-08-23T11:52:34.953Z"
+    }
+},
+{
+    "model": "walikelas.poin_prestasi",
+    "pk": 11,
+    "fields": {
+        "siswa": 61,
+        "wali_kelas": 37,
+        "prestasi": 4,
+        "catatan_prestasi": "tingkatkan",
+        "waktu_prestasi": "2025-09-18T03:18:55.795Z"
+    }
+},
+{
+    "model": "gurubk.poin_pelanggaran",
+    "pk": 11,
+    "fields": {
+        "siswa": 61,
+        "kategori_kelas": "VII",
+        "nama_kelas": "VII",
+        "pelanggaran": 11,
+        "catatan_pelanggaran": "jangan di ulangi",
+        "waktu": "2025-09-18T03:18:17.809Z"
+    }
+},
+{
+    "model": "administrator.daftar_kelas",
+    "pk": 28,
+    "fields": {
+        "kelas": "VII",
+        "nama_kelas": "A",
+        "wali_kelas": 37
+    }
+},
+{
+    "model": "administrator.daftar_siswa",
+    "pk": 61,
+    "fields": {
+        "nisn": "00000000",
+        "nama_siswa": "ahmad dhani",
+        "kelas": 28,
+        "wali_kelas": 37
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 10,
+    "fields": {
+        "nama_pelanggaran": "Atribut sekolah tidak lengkap",
+        "poin_pelanggaran": 10
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 11,
+    "fields": {
+        "nama_pelanggaran": "Tidak membawa buku catatan kesekolah",
+        "poin_pelanggaran": 10
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 12,
+    "fields": {
+        "nama_pelanggaran": "Tidak memperhatikan guru menerangkan pelajaran",
+        "poin_pelanggaran": 15
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 13,
+    "fields": {
+        "nama_pelanggaran": "Rok sempit, ketat dan merubah model",
+        "poin_pelanggaran": 20
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 14,
+    "fields": {
+        "nama_pelanggaran": "Alpa 1 kali",
+        "poin_pelanggaran": 20
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 15,
+    "fields": {
+        "nama_pelanggaran": "Berkuku panjang dan diwarnai",
+        "poin_pelanggaran": 10
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 16,
+    "fields": {
+        "nama_pelanggaran": "Celana laki-laki tidak sesuai dengan ukuran yang ditentukan oleh pihak sekolah",
+        "poin_pelanggaran": 20
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 17,
+    "fields": {
+        "nama_pelanggaran": "Cabut saat PBM",
+        "poin_pelanggaran": 20
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 18,
+    "fields": {
+        "nama_pelanggaran": "Memakai make up",
+        "poin_pelanggaran": 10
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 19,
+    "fields": {
+        "nama_pelanggaran": "Rambut panjang",
+        "poin_pelanggaran": 20
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 20,
+    "fields": {
+        "nama_pelanggaran": "Terlambat datang ke sekolah lebih dari 15 menit",
+        "poin_pelanggaran": 10
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 21,
+    "fields": {
+        "nama_pelanggaran": "Mengganggu, menciptakan keributan belajar",
+        "poin_pelanggaran": 20
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 22,
+    "fields": {
+        "nama_pelanggaran": "Tidak memakai seragam (baju, celana, rok, sepatu, kaos kaki, ikat pinggang) baju dikeluarkan",
+        "poin_pelanggaran": 20
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 23,
+    "fields": {
+        "nama_pelanggaran": "Rambut siswa dicat",
+        "poin_pelanggaran": 20
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 24,
+    "fields": {
+        "nama_pelanggaran": "Surat izin lebih dari dua kali dengan alasan tidak jelas",
+        "poin_pelanggaran": 20
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 25,
+    "fields": {
+        "nama_pelanggaran": "Memakai perhiasan/asesoris kecuali jam tangan dan anting-anting bagi perempuan.",
+        "poin_pelanggaran": 20
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 26,
+    "fields": {
+        "nama_pelanggaran": "Memarkir kendaraan tidak sesuai dengan tempat yang telah ditentukan",
+        "poin_pelanggaran": 20
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 27,
+    "fields": {
+        "nama_pelanggaran": "Tidak ikut upacara",
+        "poin_pelanggaran": 20
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 28,
+    "fields": {
+        "nama_pelanggaran": "Tidak melaksanakan piket kelas",
+        "poin_pelanggaran": 20
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 29,
+    "fields": {
+        "nama_pelanggaran": "Membuka saringan knalpot, menggas kuat di sekolah",
+        "poin_pelanggaran": 50
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 30,
+    "fields": {
+        "nama_pelanggaran": "Membuang sampah sembarangan",
+        "poin_pelanggaran": 30
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 31,
+    "fields": {
+        "nama_pelanggaran": "Berprilaku tidak sopan terhadap sesama siswa dan guru",
+        "poin_pelanggaran": 50
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 32,
+    "fields": {
+        "nama_pelanggaran": "Mencoret dinding, pagar, mobiler, bangunan disekolah",
+        "poin_pelanggaran": 50
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 33,
+    "fields": {
+        "nama_pelanggaran": "Penghinaan, mencaci maki terhadap sesama siswa",
+        "poin_pelanggaran": 100
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 34,
+    "fields": {
+        "nama_pelanggaran": "Meloncat pagar atau jendela kelas",
+        "poin_pelanggaran": 100
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 35,
+    "fields": {
+        "nama_pelanggaran": "Memalsukan tanda tangan dokumen",
+        "poin_pelanggaran": 50
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 36,
+    "fields": {
+        "nama_pelanggaran": "Siswa berkelahi sesama siswa atau dengan orang lain",
+        "poin_pelanggaran": 100
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 37,
+    "fields": {
+        "nama_pelanggaran": "Membawa, merokok disekolah / Merokok diluar sekolah memakai seragam sekolah",
+        "poin_pelanggaran": 100
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 38,
+    "fields": {
+        "nama_pelanggaran": "Terlibat mogok belajar, aksi adu domba, provokasi",
+        "poin_pelanggaran": 100
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 39,
+    "fields": {
+        "nama_pelanggaran": "Membawa senjata tajam atau sejenisnya tanpa izin guru",
+        "poin_pelanggaran": 200
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 40,
+    "fields": {
+        "nama_pelanggaran": "Merusak sarana dan prasarana sekolah",
+        "poin_pelanggaran": 200
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 41,
+    "fields": {
+        "nama_pelanggaran": "Terlibat tawuran, pengeroyokan, pengrusakan",
+        "poin_pelanggaran": 300
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 42,
+    "fields": {
+        "nama_pelanggaran": "Mengejek, mencemooh dan melawan pada guru dan pegawai",
+        "poin_pelanggaran": 200
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 43,
+    "fields": {
+        "nama_pelanggaran": "Perbuatan asusilaseperti :  (Berzina, Free Sex, Homo seksual & Lesbian, Sodomi, Perkosaan, Aborsi, Pelecehan Seksual, Pacaran di luar batas )",
+        "poin_pelanggaran": 800
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 44,
+    "fields": {
+        "nama_pelanggaran": "Membawa, melihat, membuat atau mengedarkan konten pornografi",
+        "poin_pelanggaran": 500
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 45,
+    "fields": {
+        "nama_pelanggaran": "Memukul atau  menghina guru, dan pegawai sekolah",
+        "poin_pelanggaran": 500
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 46,
+    "fields": {
+        "nama_pelanggaran": "Terlibat aksi pemerasan, pencurian, jambret atau penadah hasil curian",
+        "poin_pelanggaran": 800
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 47,
+    "fields": {
+        "nama_pelanggaran": "Terlibat pemerkosaan atau hamil di luar nikah",
+        "poin_pelanggaran": 1000
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 48,
+    "fields": {
+        "nama_pelanggaran": "Terlibat penggunaan, membawa atau mengedarkan obat terlarang, narkoba, ekstasi dan minuman memabukkan",
+        "poin_pelanggaran": 1000
+    }
+},
+{
+    "model": "administrator.daftar_pelanggaran",
+    "pk": 49,
+    "fields": {
+        "nama_pelanggaran": "tidak memakai sepatu",
+        "poin_pelanggaran": 30
+    }
+},
+{
+    "model": "administrator.daftar_prestasi",
+    "pk": 1,
+    "fields": {
+        "nama_prestasi": "juara kelas",
+        "poin_prestasi": 20
+    }
+},
+{
+    "model": "administrator.daftar_prestasi",
+    "pk": 2,
+    "fields": {
+        "nama_prestasi": "juara 1 (lomba matematika)",
+        "poin_prestasi": 25
+    }
+},
+{
+    "model": "administrator.daftar_prestasi",
+    "pk": 3,
+    "fields": {
+        "nama_prestasi": "juara 2 (lomba matematika)",
+        "poin_prestasi": 20
+    }
+},
+{
+    "model": "administrator.daftar_prestasi",
+    "pk": 4,
+    "fields": {
+        "nama_prestasi": "juara 3 (lomba matematika)",
+        "poin_prestasi": 15
+    }
+},
+{
+    "model": "administrator.daftar_prestasi",
+    "pk": 5,
+    "fields": {
+        "nama_prestasi": "peserta lomba (tidak menang)",
+        "poin_prestasi": 10
+    }
+},
+{
+    "model": "administrator.daftar_prestasi",
+    "pk": 7,
+    "fields": {
+        "nama_prestasi": "rajin membersihkan kelas",
+        "poin_prestasi": 30
+    }
+},
+{
+    "model": "administrator.daftar_sanksi",
+    "pk": 3,
+    "fields": {
+        "poin": "80 - 99 ",
+        "sanksi": "Peringatan BK"
+    }
+},
+{
+    "model": "administrator.daftar_sanksi",
+    "pk": 4,
+    "fields": {
+        "poin": "100 - 199",
+        "sanksi": "Panggilan orang  tua oleh wali kelas"
+    }
+},
+{
+    "model": "administrator.daftar_sanksi",
+    "pk": 5,
+    "fields": {
+        "poin": "200 - 299",
+        "sanksi": "panggilan siswa dan orang tua oleh BK"
+    }
+},
+{
+    "model": "administrator.daftar_sanksi",
+    "pk": 6,
+    "fields": {
+        "poin": "300 - 399",
+        "sanksi": "Panggilan orang tua oleh BK dengan perjanjian diatas materai"
+    }
+},
+{
+    "model": "administrator.daftar_sanksi",
+    "pk": 7,
+    "fields": {
+        "poin": "400 - 1000",
+        "sanksi": "Dikembalikan kepada orang tua"
+    }
+},
+{
+    "model": "administrator.daftar_sanksi",
+    "pk": 8,
+    "fields": {
+        "poin": "1 - 30",
+        "sanksi": "Berdiri didepan kelas"
+    }
+},
+{
+    "model": "administrator.daftar_sanksi",
+    "pk": 9,
+    "fields": {
+        "poin": "31 - 50",
+        "sanksi": "berdiri dilapangan"
+    }
+},
+{
+    "model": "administrator.daftar_sanksi",
+    "pk": 10,
+    "fields": {
+        "poin": "50 - 80",
+        "sanksi": "Peringatan wali kelas"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": [
+            "admin",
+            "logentry"
+        ],
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": [
+            "admin",
+            "logentry"
+        ],
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": [
+            "admin",
+            "logentry"
+        ],
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": [
+            "admin",
+            "logentry"
+        ],
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add permission",
+        "content_type": [
+            "auth",
+            "permission"
+        ],
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change permission",
+        "content_type": [
+            "auth",
+            "permission"
+        ],
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": [
+            "auth",
+            "permission"
+        ],
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view permission",
+        "content_type": [
+            "auth",
+            "permission"
+        ],
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add group",
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change group",
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete group",
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view group",
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add user",
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change user",
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete user",
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view user",
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add content type",
+        "content_type": [
+            "contenttypes",
+            "contenttype"
+        ],
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change content type",
+        "content_type": [
+            "contenttypes",
+            "contenttype"
+        ],
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": [
+            "contenttypes",
+            "contenttype"
+        ],
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view content type",
+        "content_type": [
+            "contenttypes",
+            "contenttype"
+        ],
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add session",
+        "content_type": [
+            "sessions",
+            "session"
+        ],
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change session",
+        "content_type": [
+            "sessions",
+            "session"
+        ],
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete session",
+        "content_type": [
+            "sessions",
+            "session"
+        ],
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view session",
+        "content_type": [
+            "sessions",
+            "session"
+        ],
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add poin_ prestasi",
+        "content_type": [
+            "walikelas",
+            "poin_prestasi"
+        ],
+        "codename": "add_poin_prestasi"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change poin_ prestasi",
+        "content_type": [
+            "walikelas",
+            "poin_prestasi"
+        ],
+        "codename": "change_poin_prestasi"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete poin_ prestasi",
+        "content_type": [
+            "walikelas",
+            "poin_prestasi"
+        ],
+        "codename": "delete_poin_prestasi"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view poin_ prestasi",
+        "content_type": [
+            "walikelas",
+            "poin_prestasi"
+        ],
+        "codename": "view_poin_prestasi"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add poin_ pelanggaran",
+        "content_type": [
+            "gurubk",
+            "poin_pelanggaran"
+        ],
+        "codename": "add_poin_pelanggaran"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change poin_ pelanggaran",
+        "content_type": [
+            "gurubk",
+            "poin_pelanggaran"
+        ],
+        "codename": "change_poin_pelanggaran"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete poin_ pelanggaran",
+        "content_type": [
+            "gurubk",
+            "poin_pelanggaran"
+        ],
+        "codename": "delete_poin_pelanggaran"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view poin_ pelanggaran",
+        "content_type": [
+            "gurubk",
+            "poin_pelanggaran"
+        ],
+        "codename": "view_poin_pelanggaran"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add daftar_ kelas",
+        "content_type": [
+            "administrator",
+            "daftar_kelas"
+        ],
+        "codename": "add_daftar_kelas"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change daftar_ kelas",
+        "content_type": [
+            "administrator",
+            "daftar_kelas"
+        ],
+        "codename": "change_daftar_kelas"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete daftar_ kelas",
+        "content_type": [
+            "administrator",
+            "daftar_kelas"
+        ],
+        "codename": "delete_daftar_kelas"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view daftar_ kelas",
+        "content_type": [
+            "administrator",
+            "daftar_kelas"
+        ],
+        "codename": "view_daftar_kelas"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add daftar_ pelanggaran",
+        "content_type": [
+            "administrator",
+            "daftar_pelanggaran"
+        ],
+        "codename": "add_daftar_pelanggaran"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change daftar_ pelanggaran",
+        "content_type": [
+            "administrator",
+            "daftar_pelanggaran"
+        ],
+        "codename": "change_daftar_pelanggaran"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete daftar_ pelanggaran",
+        "content_type": [
+            "administrator",
+            "daftar_pelanggaran"
+        ],
+        "codename": "delete_daftar_pelanggaran"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view daftar_ pelanggaran",
+        "content_type": [
+            "administrator",
+            "daftar_pelanggaran"
+        ],
+        "codename": "view_daftar_pelanggaran"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add daftar_ prestasi",
+        "content_type": [
+            "administrator",
+            "daftar_prestasi"
+        ],
+        "codename": "add_daftar_prestasi"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change daftar_ prestasi",
+        "content_type": [
+            "administrator",
+            "daftar_prestasi"
+        ],
+        "codename": "change_daftar_prestasi"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete daftar_ prestasi",
+        "content_type": [
+            "administrator",
+            "daftar_prestasi"
+        ],
+        "codename": "delete_daftar_prestasi"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view daftar_ prestasi",
+        "content_type": [
+            "administrator",
+            "daftar_prestasi"
+        ],
+        "codename": "view_daftar_prestasi"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add daftar_ wali",
+        "content_type": [
+            "administrator",
+            "daftar_wali"
+        ],
+        "codename": "add_daftar_wali"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change daftar_ wali",
+        "content_type": [
+            "administrator",
+            "daftar_wali"
+        ],
+        "codename": "change_daftar_wali"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete daftar_ wali",
+        "content_type": [
+            "administrator",
+            "daftar_wali"
+        ],
+        "codename": "delete_daftar_wali"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view daftar_ wali",
+        "content_type": [
+            "administrator",
+            "daftar_wali"
+        ],
+        "codename": "view_daftar_wali"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add daftar_ siswa",
+        "content_type": [
+            "administrator",
+            "daftar_siswa"
+        ],
+        "codename": "add_daftar_siswa"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change daftar_ siswa",
+        "content_type": [
+            "administrator",
+            "daftar_siswa"
+        ],
+        "codename": "change_daftar_siswa"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete daftar_ siswa",
+        "content_type": [
+            "administrator",
+            "daftar_siswa"
+        ],
+        "codename": "delete_daftar_siswa"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view daftar_ siswa",
+        "content_type": [
+            "administrator",
+            "daftar_siswa"
+        ],
+        "codename": "view_daftar_siswa"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add daftar_ sanksi",
+        "content_type": [
+            "administrator",
+            "daftar_sanksi"
+        ],
+        "codename": "add_daftar_sanksi"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change daftar_ sanksi",
+        "content_type": [
+            "administrator",
+            "daftar_sanksi"
+        ],
+        "codename": "change_daftar_sanksi"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete daftar_ sanksi",
+        "content_type": [
+            "administrator",
+            "daftar_sanksi"
+        ],
+        "codename": "delete_daftar_sanksi"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view daftar_ sanksi",
+        "content_type": [
+            "administrator",
+            "daftar_sanksi"
+        ],
+        "codename": "view_daftar_sanksi"
+    }
+},
+{
+    "model": "auth.group",
+    "fields": {
+        "name": "administrator",
+        "permissions": []
+    }
+},
+{
+    "model": "auth.group",
+    "fields": {
+        "name": "gurubk",
+        "permissions": []
+    }
+},
+{
+    "model": "auth.group",
+    "fields": {
+        "name": "walikelas",
+        "permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$720000$R3e8SKWJR0XTD7IGD9F93P$xubXIbXTo3LZ8en5/TS6dXYuZjHGQxRRnmeeW9bbDDA=",
+        "last_login": "2025-09-18T03:19:04.114Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2024-08-07T02:12:34Z",
+        "groups": [
+            [
+                "administrator"
+            ]
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$720000$iXevRJZVT4i8xx6pECpIYO$LRMZbpOAoA+FCQLE4C+na0NNnkrdn+fdgwMEB7bJYuQ=",
+        "last_login": "2025-09-18T03:17:52.881Z",
+        "is_superuser": false,
+        "username": "gurubk",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-08-07T02:18:30Z",
+        "groups": [
+            [
+                "gurubk"
+            ]
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$720000$jgZdpM2TJPhxQOz883s3eJ$TszYgVT7+AVYGxB1Q+zy8ZogPC/wrT0uG9KFq9S5xn8=",
+        "last_login": "2025-09-18T03:18:34.869Z",
+        "is_superuser": false,
+        "username": "11111",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-09-17T03:15:30.639Z",
+        "groups": [
+            [
+                "walikelas"
+            ]
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "administrator.daftar_wali",
+    "pk": 37,
+    "fields": {
+        "nip": "11111",
+        "nama_wali": "walii",
+        "user": [
+            "11111"
+        ]
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2024-08-07T02:15:21.390Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "object_id": "1",
+        "object_repr": "administrator",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2024-08-07T02:15:31.144Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "object_id": "2",
+        "object_repr": "gurubk",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2024-08-07T02:15:38.843Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "object_id": "3",
+        "object_repr": "walikelas",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2024-08-07T02:16:47.636Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "admin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2024-08-07T02:18:30.886Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "gurubk",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2024-08-07T02:18:40.837Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "gurubk",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Groups\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2024-08-10T16:05:09.073Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "10",
+        "object_repr": "37",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2024-08-10T16:05:16.708Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "9",
+        "object_repr": "38",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2024-08-24T00:27:57.376Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "13",
+        "object_repr": "00000000",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2024-08-24T00:28:03.647Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "19",
+        "object_repr": "197707132009012005",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2024-08-24T00:28:09.783Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "18",
+        "object_repr": "197812042008012003",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2024-08-24T00:28:15.767Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "15",
+        "object_repr": "197903102019021001",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2024-08-24T00:28:21.309Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "5",
+        "object_repr": "197905252009012009",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2024-08-24T00:28:26.852Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "3",
+        "object_repr": "19800101",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2024-08-24T00:28:33.846Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "4",
+        "object_repr": "19800202",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2024-08-24T00:28:49.475Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "14",
+        "object_repr": "198005152020011001",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2024-08-24T00:28:55.411Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "6",
+        "object_repr": "198105202007012004",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2024-08-24T00:29:06.989Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "20",
+        "object_repr": "198212172009012206",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2024-08-24T00:29:11.684Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "17",
+        "object_repr": "198309092011012002",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2024-08-24T00:29:16.878Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "12",
+        "object_repr": "198311232012012007",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2024-08-24T00:29:21.374Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "7",
+        "object_repr": "198409142013012008",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2024-08-24T00:29:26.223Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "16",
+        "object_repr": "198506262010012001",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.500Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "27",
+        "object_repr": "197707132009012005",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.506Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "25",
+        "object_repr": "197812042008012003",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.509Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "35",
+        "object_repr": "197903042008012013",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.512Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "22",
+        "object_repr": "197903102019021001",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.517Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "31",
+        "object_repr": "197905252009012009",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.519Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "21",
+        "object_repr": "198005152020011001",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.522Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "26",
+        "object_repr": "198105202007012004",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.525Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "28",
+        "object_repr": "198212172009012006",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.527Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "24",
+        "object_repr": "198309092011012002",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.531Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "29",
+        "object_repr": "198311232012012007",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.535Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "32",
+        "object_repr": "198407182010012010",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.538Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "30",
+        "object_repr": "198409142013012008",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.542Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "23",
+        "object_repr": "198506262010012001",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.544Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "33",
+        "object_repr": "198512102011012011",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.547Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "34",
+        "object_repr": "198609112012012012",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.550Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "8",
+        "object_repr": "659856",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.553Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "36",
+        "object_repr": "666",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.556Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "11",
+        "object_repr": "7777778",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.558Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "38",
+        "object_repr": "876543434",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2025-09-17T02:31:55.561Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "37",
+        "object_repr": "9999",
+        "action_flag": 3,
+        "change_message": ""
+    }
+}
+]
