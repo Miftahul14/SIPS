@@ -217,17 +217,20 @@ def tambah_wali(request):
     if request.method == 'POST':
         nip = request.POST['nip']
         nama_wali = request.POST['nama_wali']
-        password = nip + 'wali'
+        password = nip + 'wali'  # password default
 
+        # Buat user baru, password sudah otomatis di-hash
         user = User.objects.create_user(username=nip, password=password)
+
+        # Buat data wali kelas
         wali_kelas = Daftar_Wali(nip=nip, nama_wali=nama_wali, user=user)
-        
         wali_kelas.save()
-        user.save()
-        
-        group = Group.objects.get(name='walikelas')
+
+        # Tambahkan user ke group walikelas
+        group, created = Group.objects.get_or_create(name='walikelas')
         user.groups.add(group)
-        messages.success(request, f'{nama_wali} Berhasil Ditambahkan sebagai wali kelas')
+
+        messages.success(request, f'{nama_wali} berhasil ditambahkan sebagai wali kelas')
         return redirect("Daftar_Wali_Ad")
     else:
         return render(request, "daftar_wali.html")
