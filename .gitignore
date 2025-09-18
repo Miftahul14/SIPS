@@ -1,21 +1,20 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.sqlite3
-
 # Virtual environment
-venv/
 env/
+venv/
+*.pyc
+__pycache__/
 
-# Django
-staticfiles/
-media/
+# Database lokal
+db.sqlite3
 
-# VS Code / IDE
+# File environment
+.env
+
+# Static & Media
+/staticfiles/
+/media/
+
+# Editor / OS
 .vscode/
 .idea/
-
-# Environment variables
-.env
+.DS_Store
